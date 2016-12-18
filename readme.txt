@@ -4,8 +4,8 @@ Tags: composer, git
 Requires at least: 4.3
 Tested up to: 4.5
 Stable tag: 1.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: MIT
+License URI: http://opensource.org/licenses/MIT
 
 Add all your active plugins to a composer.json-File.
 
